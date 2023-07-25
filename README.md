@@ -1,5 +1,5 @@
 0x11. C - printf
-This is a group project  done by Luyanda Sithole and Andiswa Sithole
+This is a group project  done by Luyanda Sithole and Andiswa Sithole after changing partners. 
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a spur for life
 Write a function that produces output according to a format.
@@ -47,5 +47,5 @@ Handle the following custom conversion specifier:
 Handle the following custom conversion specifier:
 
 15. *
-All the above options work well together.
-All complete
+All the above options work well together by Luyanda Sithole and Andiswa Sithole.
+All complete!!!
