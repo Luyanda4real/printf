@@ -1,5 +1,5 @@
 0x11. C - printf
-This is a group project  done by Luyanda Sithole and Andiswa Sithole after changing partners. 
+This is a group project  done by Luyanda Sithole and Andiswa Sithole with the same partners because we prefer it that way. 
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a spur for life
 Write a function that produces output according to a format.
